@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Black.ttf",
+      "sha1": "61c1e97d50114c104060547235213bcff828a28e"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Bold.ttf",
+      "sha1": "58eee7ef179b895fee6c276a722901daf364da9e"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-ExtraBold.ttf",
+      "sha1": "e16a01c39437ed305f5e5a685001a98aacf4c005"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-ExtraLight.ttf",
+      "sha1": "56b08c57a0b2d0f06f5042623cba809ac0450296"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Light.ttf",
+      "sha1": "854302f72eba5dd11615ae8ed2ab8311e12fe1df"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Medium.ttf",
+      "sha1": "81bf50a4a111815ba3d3a4babbe3719286bba717"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Regular.ttf",
+      "sha1": "bd5e1aaf2f3a18cbfb21d6a1c2d17cc3347a2c67"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-SemiBold.ttf",
+      "sha1": "c0b14d5b4659df8a9d84efbd9f290a78dfc16f45"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Thin.ttf",
+      "sha1": "07135c8eca75d0d819a684789b3f5ea88afce191"
+    },
+    {
+      "path": "src/assets/fonts/ReemKufiInk-Regular.ttf",
+      "sha1": "6c9d9c9fe8404e67081d5f65ceb339a2d98f294c"
+    },
+    {
+      "path": "src/assets/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    }
+  ]
+}
