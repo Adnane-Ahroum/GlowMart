@@ -89,10 +89,3 @@ GlowMart/
 ├── firebaseConfig.js  # Firebase configuration
 └── package.json       # Project dependencies
 ```
-
-## Contact
-**Adnane Ahroum**
-- GitHub: [@Adnane-Ahroum](https://github.com/Adnane-Ahroum)
-- Repository: [GlowMart](https://github.com/Adnane-Ahroum/GlowMart)
-
-For questions, feedback, or collaboration opportunities, please feel free to reach out through GitHub.
