@@ -4,13 +4,6 @@
   A mobile shopping app for lighting products, built for <b>Saint Mediterranean Lux</b>.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-0.71.7-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-18.2-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-9-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node-18-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey" />
-</p>
 
 <p align="center">
   <img src="docs/screenshots/home.jpg" width="220" />
